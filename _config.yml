@@ -16,11 +16,11 @@ kramdown:
 
 header_pages:
   - index.md
-#  - about.md
+  - about.md
 
 footer: 'Just a footer...'
 
-style: light # dark (default) or light
+style: hacker # dark (default) or light
 listen_for_clients_preferred_style: true # true or false (default)
 
 plugins:
