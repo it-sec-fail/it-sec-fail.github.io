@@ -1,5 +1,5 @@
 ---
-title: IT-SEC.fail | Home
+title: home
 layout: home
 permalink: /
 ---
