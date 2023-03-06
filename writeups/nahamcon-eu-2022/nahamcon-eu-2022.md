@@ -39,6 +39,6 @@ You should find a #ctf channel in the **NahamCon 2022** category and direct your
 
 ### Warmup
 
-[Read the rules](/writeups/nahamcon-eu-2022/warmup/read_the_rules.md)
-[Banjo](/writeups/nahamcon-eu-2022/warmup/banjo.md)
-[Hashstation](/writeups/nahamcon-eu-2022/warmup/hashstation.md)
+[Read the rules](warmup/read_the_rules.md)
+[Banjo](warmup/banjo.md)
+[Hashstation](warmup/hashstation.md)
