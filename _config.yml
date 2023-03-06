@@ -18,7 +18,7 @@ header_pages:
   - readme.md
   - about.md
 
-footer: 'Just a footer...'
+footer: 'Be safe out there! © by IT-SEC.fail'
 
 style: hacker # dark (default) or light
 listen_for_clients_preferred_style: false # true or false (default)
