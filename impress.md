@@ -1,7 +1,7 @@
 ---
-title: /writeups
+title: /imprint
 layout: page
-permalink: /writeups
+permalink: /imprint
 ---
 
 # Impressum
