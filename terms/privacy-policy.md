@@ -6,7 +6,7 @@ permalink: /terms/privacy-policy
 
 # <span style="color: cyan;">webuser</span>@<span style="color: darkorange;">security-client</span>:~$ <span style="color: white;">cat</span> privacy-doc
 
-# Impressum<
+# Impressum
 
 Angaben gemäß § 5 TMG
 Ullrich Weichert
