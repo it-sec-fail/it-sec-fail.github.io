@@ -26,4 +26,4 @@ CTF events can be broadly categorized into the following three parts:
 
 **Mixed Style CTFs**: The mixed style is a blend of both the Jeopardy-style and the Attack-Defense style CTFs. The organizers can set up an attack-defense competition having challenges of different kinds or a jeopardy competition having the attack-defense challenges.
 
-<p style="text-align: right; font-size:10px">[Source: Infosectrain.com](https://www.infosectrain.com/blog/a-beginners-guide-to-capture-the-flag-ctf-hacking/)</p>
+<p style="text-align: right; font-size:10px"><a href="https://www.infosectrain.com/blog/a-beginners-guide-to-capture-the-flag-ctf-hacking/" target="_blank">Source: Infosectrain.com</p>

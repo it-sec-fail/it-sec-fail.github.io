@@ -4,4 +4,4 @@ layout: home
 permalink: /blog/
 ---
 
-# <span style="color: yellow;">web</span>@kali:~$ tail -f blog.md
+<div markdown="0"><span style="color: yellow;">web</span>@kali:~$ tail -f blog.md</div>
