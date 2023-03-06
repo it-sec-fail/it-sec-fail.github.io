@@ -15,7 +15,7 @@ header_pages:
   - ctfs.md
   - about.md
 
-footer: 'Be safe out there! © by IT-SEC.fail'
+footer: 'Be safe out there! © by IT-SEC.fail | '
 
 style: hacker # dark (default) or light
 listen_for_clients_preferred_style: false # true or false (default)
