@@ -4,6 +4,8 @@ layout: page
 permalink: /ctf
 ---
 
+# <span style="color: cyan;">webuser</span>@<span style="color: darkorange;">security-client</span>:~$ <span style="color: white;">cat</span> explain-ctf.txt
+
 # Capture the flag
 
 ## What is CTF?
