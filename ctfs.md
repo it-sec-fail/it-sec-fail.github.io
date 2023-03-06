@@ -19,11 +19,13 @@ CTF events can be broadly categorized into the following three parts:
 - Attack-defense CTF
 - Mixed-syle CTF
 
+### Jeopardy-style CTF
+In Jeopardy-style, there is either a test or many tasks you have to solve. You need to apply all the information security aptitudes you own to get a bit of encoded string. The next challenges in the series will get unlocked only after the completion of previous ones. Jeopardy-style covers Web, Cryptography, Reverse designing, Pawning, Forensics, Steganography related challenges.
 
-**Jeopardy-style CTF**: In Jeopardy-style, there is either a test or many tasks you have to solve. You need to apply all the information security aptitudes you own to get a bit of encoded string. The next challenges in the series will get unlocked only after the completion of previous ones. Jeopardy-style covers Web, Cryptography, Reverse designing, Pawning, Forensics, Steganography related challenges.
+### Attack-Defense Style CTF
+In Attack-Defense style CTF, two groups are competing with each other. In this, you have to break into other group’s security posture to get the flag while protecting your host machine from the opponents. Before the contest starts, a definite time frame is given to both the groups to identify the vulnerabilities in their systems and fix them. The groups obtain points for infiltration as well as defending against the opponent’s attacks. It requires coordination among team members to score maximum points. This type of event is also known as the Red Team/Blue Team CTF.
 
-**Attack-Defense Style CTF**: In Attack-Defense style CTF, two groups are competing with each other. In this, you have to break into other group’s security posture to get the flag while protecting your host machine from the opponents. Before the contest starts, a definite time frame is given to both the groups to identify the vulnerabilities in their systems and fix them. The groups obtain points for infiltration as well as defending against the opponent’s attacks. It requires coordination among team members to score maximum points. This type of event is also known as the Red Team/Blue Team CTF.
-
-**Mixed Style CTFs**: The mixed style is a blend of both the Jeopardy-style and the Attack-Defense style CTFs. The organizers can set up an attack-defense competition having challenges of different kinds or a jeopardy competition having the attack-defense challenges.
+### Mixed Style CTFs
+The mixed style is a blend of both the Jeopardy-style and the Attack-Defense style CTFs. The organizers can set up an attack-defense competition having challenges of different kinds or a jeopardy competition having the attack-defense challenges.
 
 <p style="text-align: right; font-size:10px"><a href="https://www.infosectrain.com/blog/a-beginners-guide-to-capture-the-flag-ctf-hacking/" target="_blank">Source: Infosectrain.com</a></p>
