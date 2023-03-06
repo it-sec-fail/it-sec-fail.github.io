@@ -15,7 +15,7 @@ kramdown:
 #google_analytics: UA-NNNNNNNN-N
 
 header_pages:
-  - index.md
+  - readme.md
   - about.md
 
 footer: 'Just a footer...'

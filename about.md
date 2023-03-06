@@ -1,9 +1,10 @@
 ---
 title: /about
-layout: home
+layout: page
 permalink: /about
 ---
 
-# IT-sec.fail
+# IT-SEC.fail
 
-This will contain some infos about the people behind IT-Sec.fail
+We are a bunch of security enthusiasts working in IT as security specialists. Gripped by the many exciting topics and the fact that the fight for more (IT) security is more important than ever, we have joined forces to advance our common goal.
+In our free time we like to face one or the other CTF (capture the flag). There is nothing better than sitting with the "guys" in a relaxed atmosphere on a tricky task and solving the puzzle behind it while sipping a little beer. 
