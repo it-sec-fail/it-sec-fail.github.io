@@ -16,7 +16,9 @@ kramdown:
 
 header_pages:
   - readme.md
+  - blog.md
   - about.md
+  - ctfs.md
 
 footer: 'Be safe out there! © by IT-SEC.fail'
 
