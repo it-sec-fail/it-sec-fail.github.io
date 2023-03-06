@@ -4,4 +4,5 @@ layout: home
 permalink: /blog/
 ---
 
-# <span style="color: red;">root</span>@parrot:~$ tail -f blogposts.md
+# <span style="color: red;">root</span>@security-client:~$ tail -f blogposts.md
+

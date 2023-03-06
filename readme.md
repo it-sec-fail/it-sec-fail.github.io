@@ -6,4 +6,7 @@ permalink: /
 
 # IT-sec.fail - Security Blog
 
-This is a testpage to run the whole website through github... let's see if this works out.
+Welcome to another minimalistic blog for all kinds of security matters and write-ups from CTF challanges we participated in.
+We hope you like it here.
+
+The [blog](blog.md) is this way. The write-ups will be listed over [here](writeups.md).

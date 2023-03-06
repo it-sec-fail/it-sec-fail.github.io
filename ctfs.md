@@ -28,4 +28,4 @@ In Attack-Defense style CTF, two groups are competing with each other. In this, 
 ### Mixed Style CTFs
 The mixed style is a blend of both the Jeopardy-style and the Attack-Defense style CTFs. The organizers can set up an attack-defense competition having challenges of different kinds or a jeopardy competition having the attack-defense challenges.
 
-<div style="text-align: right;"><a href="https://www.infosectrain.com/blog/a-beginners-guide-to-capture-the-flag-ctf-hacking/" target="_blank">Source: Infosectrain.com</a></div>
+<div style="text-align: right; font-size=10px"><a href="https://www.infosectrain.com/blog/a-beginners-guide-to-capture-the-flag-ctf-hacking/" target="_blank">Source: Infosectrain.com</a></div>

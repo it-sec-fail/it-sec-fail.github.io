@@ -11,8 +11,9 @@ url: ""
 header_pages:
   - readme.md
   - blog.md
-  - about.md
+  - writeups.md
   - ctfs.md
+  - about.md
 
 footer: 'Be safe out there! © by IT-SEC.fail'
 
