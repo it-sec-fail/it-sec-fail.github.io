@@ -9,4 +9,4 @@ total 108
 drwxr-xr-x 10 w3ich3rt w3ich3rt  4096 Oct 14 22:15 .
 drwxr-xr-x  3 root     root      4096 Dec 26  2021 ..
 lrwxrwxrwx  1 w3ich3rt w3ich3rt    23 Oct 12 13:18 .home -> [/../../home](/readme.md)
--rw-r--r--  1 w3ich3rt w3ich3rt  3526 Dec 26  2021 .[NahamCon-EU-CTF-2022](/writeups/nahamcon-eu-2022/nahamcon-eu-2022.md)
+-rw-r--r--    1 w3ich3rt w3ich3rt  3526 Dec 26  2021 .[NahamCon-EU-CTF-2022](/writeups/nahamcon-eu-2022/nahamcon-eu-2022.md)
