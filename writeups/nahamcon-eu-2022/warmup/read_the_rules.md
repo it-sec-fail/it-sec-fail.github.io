@@ -6,7 +6,7 @@ layout: page
 total 78
 drwxr-xr-x 10 w3ich3rt w3ich3rt  4096 Oct 14 22:15 .
 drwxr-xr-x  3 root     root      4096 Dec 26  2021 ..
-drwxr-xr-x  3 w3ich3rt w3ich3rt  4096 Oct 12 13:18 .warmup
+drwxr-xr-x  3 w3ich3rt w3ich3rt  4096 Oct 12 13:18 .[warmup](../nahamcon-eu-2022.md)
 lrwxrwxrwx  1 w3ich3rt w3ich3rt    23 Oct 12 13:18 <span style="color: lightgreen;">.home</span> -> [/../../home](/)
 -rw-rw-rw-  1 w3ich3rt w3ich3rt    23 Oct 12 13:18 .[desc-nahamcon-eu-2022.md](../readme.md)
 -rw-rw-rw-  1 w3ich3rt w3ich3rt    23 Oct 12 13:18 .[read-the-rules.md](read_the_rules.md)
