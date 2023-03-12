@@ -13,6 +13,10 @@ In our free time we like to face one or the other CTF (capture the flag). There 
 
 ## Participants
 
+### MrBlueSky
+
+### Smileymarco
+
 ### w3ich3rt
 
 to be continued

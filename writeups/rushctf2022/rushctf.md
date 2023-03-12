@@ -11,7 +11,7 @@ lrwxrwxrwx  1 w3ich3rt w3ich3rt    23 Oct 12 13:18 <span style="color: lightgree
 -rw-rw-rw-  1 w3ich3rt w3ich3rt  3471 Mar 11 15:23 .[2_the_movies.md](2_the_movies/2_the_movies.md)
 -rw-rw-rw-  1 w3ich3rt w3ich3rt  3471 Mar 11 13:41 .[chandler.md](chandler/chandler.md)
 -rw-rw-rw-  1 w3ich3rt w3ich3rt  3471 Mar 11 18:56 .[CMTVdepression.md](CMTVdepression/cmtv_depression.md)
--rw-rw-rw-  1 w3ich3rt w3ich3rt  3471 Mar 11 11:33 .[digitalocean.md]/home/um3n/it-sec-fail.github.io/writeups/rushctf2022/missing_y00u(DigitalOcean/digitalocean.md)
+-rw-rw-rw-  1 w3ich3rt w3ich3rt  3471 Mar 11 11:33 .[digitalocean.md](DigitalOcean/digitalocean.md)
 -rw-rw-rw-  1 w3ich3rt w3ich3rt  3471 Mar 11 11:14 .[missing_y00u.md](missing_y00u/missing-y00u.md)
 -rw-rw-rw-  1 w3ich3rt w3ich3rt  3471 Mar 11 11:55 .[silly_me.md](silly_me/silly_me.md)
 -rw-rw-rw-  1 w3ich3rt w3ich3rt  3471 Mar 11 20:23 .[whats_your_gender.md](whats_your_gender/whats_your_gender.md)
