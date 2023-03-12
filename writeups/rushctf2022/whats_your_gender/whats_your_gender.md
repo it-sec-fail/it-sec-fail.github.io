@@ -1,6 +1,14 @@
+---
+layout: page
+---
+
+<span style="color:red; font-weight:bold;">Not solved!</span>
+
 # What's your gender?
+
 Easy
 Category: Forensics
+Writeup from: w3ich3rt
 
 ## Challenge description
 

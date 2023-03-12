@@ -1,6 +1,12 @@
+---
+layout: page
+---
+
 # DigitalOcean
+
 Easy
 Category: Forensics
+Writeup from: w3ich3rt
 
 ## Challenge description
 

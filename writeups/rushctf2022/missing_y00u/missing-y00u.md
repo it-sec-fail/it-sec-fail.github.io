@@ -1,6 +1,12 @@
+---
+layout: page
+---
+
 # Missing Y00U
+
 Easy
 Category: Warmup
+Writeup from: w3ich3rt
 
 ## Challenge description
 

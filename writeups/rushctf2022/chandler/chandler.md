@@ -1,4 +1,9 @@
+---
+layout: page
+---
+
 # Chandler
+
 Easy
 Category: OSINT
 Writeup from: Smilymarco

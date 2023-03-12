@@ -1,6 +1,12 @@
+---
+layout: page
+---
+
 # Silly Me
+
 Easy
 Category: Warmup
+Writeup from: w3ich3rt
 
 ## Challenge description
 

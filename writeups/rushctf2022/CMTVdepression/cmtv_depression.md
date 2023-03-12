@@ -1,6 +1,12 @@
+---
+layout: page
+---
+
 # CMTV Depression 1 and 2
 
 Medium
+Category: OSINT
+Writeup from: w3ich3rt
 
 ## Challenge description
 
