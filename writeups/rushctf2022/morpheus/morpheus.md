@@ -5,6 +5,8 @@ layout: page
 <span style="color:red; font-weight:bold;">Not solved by use while the CTF!</span>
 <span style="color:red; font-weight:bold;">Writeup from Raxo#0468</span>
 
+# <span style="color: cyan;">webuser</span>@<span style="color: darkorange;">security-client</span>:~$ <span style="color: white;">cat</span> morpheus.md
+
 # Morpheus
 
 ```python

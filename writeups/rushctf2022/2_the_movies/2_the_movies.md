@@ -4,6 +4,8 @@ layout: page
 
 <span style="color:red; font-weight:bold;">Not solved in the time of the CTF!</span>
 
+# <span style="color: cyan;">webuser</span>@<span style="color: darkorange;">security-client</span>:~$ <span style="color: white;">cat</span> 2_the_movies.md
+
 # 2 the Movies
 
 Easy
