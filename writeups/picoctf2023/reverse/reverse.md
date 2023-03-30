@@ -11,13 +11,18 @@ lrwxrwxrwx  1 w3ich3rt w3ich3rt    30 Mar 23 13:18 .home -> [../writeups](/write
 lrwxrwxrwx  1 w3ich3rt w3ich3rt    30 Mar 23 14:53 .[back](/writeups/picoctf2023/picoctf_readme)
 -rw-rw-rw-  1 Mr81u35ky Mr81u35ky  30 Mar 23 13:18 .solve.md
 
-# <span style="color: cyan;">webuser</span>@<span style="color: darkorange;">security-client</span>:~$ <span style="color: white;">cat</span>  /home/w3ich3rt/writeups/picoctf2023/PcapPoisoning/solve.md
+# <span style="color: cyan;">webuser</span>@<span style="color: darkorange;">security-client</span>:~$ <span style="color: white;">cat</span>  /home/w3ich3rt/writeups/picoctf2023/reverse/solve.md
 
 Writeup from: Mr81u35ky
 
-## PcapPoisoning
+## Reverse
 
-Given was a pcap file.
-Opened it with wireshark had just a first look and scrolled through the requests.
+Just use the Strings command on the `file`.
 
-> picoCTF{P64P_4N4L7S1S_SU55355FUL_ba1a6097}
+```shell
+file examplefile
+```
+
+And get:
+
+> picoCTF{3lf_r3v3r5ing_succe55ful_f7abcc2f}

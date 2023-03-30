@@ -11,13 +11,12 @@ lrwxrwxrwx  1 w3ich3rt w3ich3rt    30 Mar 23 13:18 .home -> [../writeups](/write
 lrwxrwxrwx  1 w3ich3rt w3ich3rt    30 Mar 23 14:53 .[back](/writeups/picoctf2023/picoctf_readme)
 -rw-rw-rw-  1 Mr81u35ky Mr81u35ky  30 Mar 23 13:18 .solve.md
 
-# <span style="color: cyan;">webuser</span>@<span style="color: darkorange;">security-client</span>:~$ <span style="color: white;">cat</span>  /home/w3ich3rt/writeups/picoctf2023/PcapPoisoning/solve.md
+# <span style="color: cyan;">webuser</span>@<span style="color: darkorange;">security-client</span>:~$ <span style="color: white;">cat</span>  /home/w3ich3rt/writeups/picoctf2023/repititions/solve.md
 
 Writeup from: Mr81u35ky
 
-## PcapPoisoning
+## Repetitions
 
-Given was a pcap file.
-Opened it with wireshark had just a first look and scrolled through the requests.
+In cyberchef 6 times from base 64 
 
-> picoCTF{P64P_4N4L7S1S_SU55355FUL_ba1a6097}
+> picoCTF{base64_n3st3d_dic0d!n8_d0wnl04d3d_0e8b0014}

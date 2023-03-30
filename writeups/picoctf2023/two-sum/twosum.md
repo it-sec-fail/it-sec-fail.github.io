@@ -11,13 +11,20 @@ lrwxrwxrwx  1 w3ich3rt w3ich3rt    30 Mar 23 13:18 .home -> [../writeups](/write
 lrwxrwxrwx  1 w3ich3rt w3ich3rt    30 Mar 23 14:53 .[back](/writeups/picoctf2023/picoctf_readme)
 -rw-rw-rw-  1 Mr81u35ky Mr81u35ky  30 Mar 23 13:18 .solve.md
 
-# <span style="color: cyan;">webuser</span>@<span style="color: darkorange;">security-client</span>:~$ <span style="color: white;">cat</span>  /home/w3ich3rt/writeups/picoctf2023/PcapPoisoning/solve.md
+# <span style="color: cyan;">webuser</span>@<span style="color: darkorange;">security-client</span>:~$ <span style="color: white;">cat</span>  /home/w3ich3rt/writeups/picoctf2023/two-sum/solve.md
 
 Writeup from: Mr81u35ky
 
-## PcapPoisoning
+## Two Sum
 
-Given was a pcap file.
-Opened it with wireshark had just a first look and scrolled through the requests.
+`nc saturn.picoctf.net 49391`
 
-> picoCTF{P64P_4N4L7S1S_SU55355FUL_ba1a6097}
+```shell
+n1 > n1 + n2 OR n2 > n1 + n2 
+What two positive numbers can make this possible: 
+2147483647 
+2147483647 
+You entered 2147483647 and 2147483647
+You have an integer overflow
+YOUR FLAG IS: picoCTF{Tw0_Sum_Integer_Bu773R_0v3rfl0w_bc0adfd1}
+```

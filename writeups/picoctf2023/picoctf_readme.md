@@ -15,12 +15,18 @@ lrwxrwxrwx  1 w3ich3rt w3ich3rt    30 Mar 23 13:18 .home -> [/../writeups](/writ
 -rw-rw-rw-  1 Mr81u35ky Mr81u35ky  30 Mar 23 13:18 .[rotation.md](rotation/rotation)
 -rw-rw-rw-  1 Mr81u35ky Mr81u35ky  30 Mar 23 13:18 .[timer.md](timer/timer)
 -rw-rw-rw-  1 Mr81u35ky Mr81u35ky  30 Mar 23 13:18 .[safeopener2.md](safe_opener2/safeopener2)
+-rw-rw-rw-  1 Mr81u35ky Mr81u35ky  30 Mar 23 13:18 .[reverse.md](reverse/reveres)
+-rw-rw-rw-  1 Mr81u35ky Mr81u35ky  30 Mar 23 13:18 .[repetitions.md](repetitions/repetitions)
+-rw-rw-rw-  1 Mr81u35ky Mr81u35ky  30 Mar 23 13:18 .[hideme.md](hideme/hideme)
+-rw-rw-rw-  1 Mr81u35ky Mr81u35ky  30 Mar 23 13:18 .[who_is_it.md](who_is_it/whoisit)
+-rw-rw-rw-  1 Mr81u35ky Mr81u35ky  30 Mar 23 13:18 .[chrono.md](chrono/chrono)
+-rw-rw-rw-  1 Mr81u35ky Mr81u35ky  30 Mar 23 13:18 .[two-sum.md](two-sum/twosum)
 
 ## <span style="color: cyan;">webuser</span>@<span style="color: darkorange;">security-client</span>:~$ <span style="color: white;">cat</span>  picoctf_readme.md
 
 ![Pico CTF LOGO](/assets/picoctf/picoctf-logo.svg)
 
-# Pico CTF 2023
+## Pico CTF 2023
 
 [Link to Pico CTF](https://play.picoctf.org/)
 
